@@ -1,0 +1,19 @@
+.grid {
+  display: grid;
+  grid-template-rows: auto;
+  grid-template-columns: 1fr 1fr;
+}
+
+.gp-8 {
+  gap: 8px;
+}
+
+.btn {
+  white-space: nowrap;
+  vertical-align: middle;
+  cursor: pointer;
+  user-select: none;
+  border: 1px solid;
+  border-radius: 6px;
+  appearance: none;
+}
