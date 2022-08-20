@@ -9,7 +9,7 @@
 🚀 *Smart Pull Request is chrome browser extension to help review github pr files tab.*
 
 # Install
-- Chrome Extension  （Still applying...）
+- [Chrome Extension](https://chrome.google.com/webstore/detail/smartpullrequest/goojodnccenoinjjpfiajflilecakcbp)
 
 # Usage
 ![](https://github.com/nomunomu0504/smart-pull-request/blob/main/src/assets/usage.gif?raw=true)
